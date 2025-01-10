@@ -6,7 +6,7 @@ This project is a robust Stock Price Prediction Platform that leverages machine 
 ## Features
 
 + **Real-Time Data:** Fetches live stock market data using Yahoo Finance and Alpha Vantage APIs.
-+ **Machine Learning Models:** Implements TensorFlow-based LSTM models and Gradient Boosting Classifiers for predictive analytics.
++ **Machine Learning Models:** Implements TensorFlow-based LSTM, DNN models and Gradient Boosting Classifiers for predictive analytics.
 + **Data Visualization:** An interactive front-end visualizes stock price trends and predictions.
 + **Portfolio Recommendations:** Suggests stocks to buy or sell based on prediction trends.
 + **Cloud Integration:** Employs Google Cloud services for data streaming, processing, and storage.
