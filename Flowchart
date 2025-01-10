@@ -1,0 +1,29 @@
+       [Stock Market APIs]
+               |
+    Fetch Real-Time Stock Data
+               |
+         [Google Pub/Sub]
+               |
+   Stream Data to Processing Pipeline
+               |
+   +-------------------------------+
+   |     Data Preprocessing        |
+   | - Cleanse Data                |
+   | - Feature Engineering (RSI,   |
+   |   MACD, Moving Averages, etc.)|
+   +-------------------------------+
+               |
+   Train & Deploy ML Models (TensorFlow)
+               |
+         [Google AI Platform]
+               |
+   Store Predictions in BigQuery
+               |
+         Fetch Predictions
+               |
+   +-------------------------------+
+   |   Interactive Web Interface   |
+   | - Stock Trends Visualization  |
+   | - Portfolio Recommendations   |
+   | - Real-Time Predictions       |
+   +-------------------------------+
