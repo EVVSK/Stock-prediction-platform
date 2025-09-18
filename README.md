@@ -5,7 +5,7 @@ This project is a robust Stock Trend Prediction Platform that leverages machine 
 
 ## Features
 
-+ **Real-Time Data:** Fetches live stock market data using Yahoo Finance and Alpha Vantage APIs.
++ **Real-Time Data:** Fetches live stock market data using Yahoo Finance API.
 + **Machine Learning Models:** Implements TensorFlow-based LSTM, DNN models and Gradient Boosting Classifiers for predictive analytics.
 + **Data Visualization:** An interactive front-end visualizes stock price trends and predictions.
 + **Portfolio Recommendations:** Suggests stocks to buy or sell based on prediction trends.
