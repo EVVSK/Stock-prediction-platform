@@ -1,0 +1,6 @@
+﻿stockanalysis-*.json
+.ipynb_checkpoints/
+__pycache__/
+node_modules/
+build/
+saved_model/
