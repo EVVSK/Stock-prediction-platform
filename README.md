@@ -1,4 +1,4 @@
-# Stock Prediction Platform using GCP
+# Walk-Forward Validated Multi-Ticker Forecasting using GCP
 
 ## Description
 
