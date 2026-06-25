@@ -1,4 +1,4 @@
-# Walk-Forward Validated Multi-Ticker Forecasting using GCP
+# AlphaPulse: Custom Market Tracker
 
 ## Description
 
